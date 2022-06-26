@@ -7,12 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+##  Laravel com Docker
 
 <h3> Projeto API Clientes</h3>
 
 ## Projeto em Framework Laravel para JN2
 
+## Observação
+
+Se eu tivesse mais tempo eu realizaria o projeto utilizando os Repositories com o Laravel. 
 
 
 ## Contribuinte
